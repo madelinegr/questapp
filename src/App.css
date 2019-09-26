@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.quote {
+  font-size: 25px;
+  font-family: "Apple Chancery", "cursive";
+  margin: 10px;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #c7ba65;
+  border-radius: 50%;
+  display: inline-block;
+}
+

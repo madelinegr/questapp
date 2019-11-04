@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import SimpleMap from './map.js'
+import Compass from './compass.js'
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
         <p class="quote">“Dare to live the life you’ve always wanted.”</p>
         <p class="quote">“Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.”</p>
         <p class="quote">“Oh the places you’ll go.”</p>
+
+        <Compass />
 
         <SimpleMap />
       
